@@ -1,0 +1,9 @@
+@font-face {
+    font-family: CustomFont;
+    src: url("ferrum.otf") format("opentype");
+}
+
+@font-face {
+    font-family: MainFont;
+    src: url("raleway-light.ttf");
+}
